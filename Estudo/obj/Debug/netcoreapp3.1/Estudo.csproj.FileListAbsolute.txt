@@ -1,0 +1,13 @@
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\obj\Debug\netcoreapp3.1\Estudo.AssemblyInfoInputs.cache
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\obj\Debug\netcoreapp3.1\Estudo.AssemblyInfo.cs
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\obj\Debug\netcoreapp3.1\Estudo.csproj.CoreCompileInputs.cache
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\bin\Debug\netcoreapp3.1\Estudo.exe
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\bin\Debug\netcoreapp3.1\Estudo.deps.json
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\bin\Debug\netcoreapp3.1\Estudo.runtimeconfig.json
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\bin\Debug\netcoreapp3.1\Estudo.runtimeconfig.dev.json
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\bin\Debug\netcoreapp3.1\Estudo.dll
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\bin\Debug\netcoreapp3.1\Estudo.pdb
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\obj\Debug\netcoreapp3.1\Estudo.dll
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\obj\Debug\netcoreapp3.1\Estudo.pdb
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\obj\Debug\netcoreapp3.1\Estudo.genruntimeconfig.cache
+C:\Users\yan.nascimento\source\repos\Estudo\Estudo\obj\Debug\netcoreapp3.1\Estudo.csprojAssemblyReference.cache
